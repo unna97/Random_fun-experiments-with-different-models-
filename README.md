@@ -1,5 +1,6 @@
-Random interesting codes
+# Random interesting codes
 
-# Knot Visualization (https://github.com/unna97/Random_fun-experiments-with-different-models-/blob/master/Knot_visual.ipynb):
+## 1.Knot Visualization:
 ![alt text](https://github.com/unna97/Random_fun-experiments-with-different-models-/blob/master/Plot_knot.jpeg?raw=true)
+
 
